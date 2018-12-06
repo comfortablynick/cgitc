@@ -23,6 +23,11 @@ gstp = git stash pop
 cgitc is fork of [oh-my-zsh]'s [git plugin].
 <br><br>
 
+Todo
+--------
+- Make compatible with Fish 3.0 abbreviation style
+- Add option to define as global Fish abbr only (not exported to `fish_variables`
+
 Installation
 --------
 You can install cgitc via various package managers.
